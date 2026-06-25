@@ -132,7 +132,7 @@ export default function App() {
     <div style={styles.container}>
       <header style={styles.header}>
         <h1 style={styles.title}>FlickFinder</h1>
-        <p style={styles.subtitle}>OMDB MOVIE LISTING APPLICATION</p>
+        <p style={styles.subtitle}>MOVIE LISTING APPLICATION</p>
         
         <form onSubmit={handleSearchSubmit} style={styles.searchForm}>
           <input 
